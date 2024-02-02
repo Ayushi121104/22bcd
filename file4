@@ -6,13 +6,13 @@ using namespace std;
 // Driver Code 
 int main() 
 { 
-    int i; 
+    int x; 
   
     // Take input using cin 
-    cin >> i; 
+    cin >> x; 
   
     // Print output 
-    cout << i; 
+    cout << x; 
   
     return 0; 
 }
