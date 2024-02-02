@@ -1,3 +1,18 @@
-hello from git,what is vcs?
-
-
+// C++ program to demonstrate the 
+// cin object 
+#include <iostream> 
+using namespace std; 
+  
+// Driver Code 
+int main() 
+{ 
+    int x; 
+  
+    // Take input using cin 
+    cin >> x; 
+  
+    // Print output 
+    cout << x; 
+  
+    return 0; 
+}
